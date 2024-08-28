@@ -2,7 +2,7 @@ import React from 'react'
 import img1 from '../../assets/home/chooseUs/img1.png'
 import img2 from '../../assets/home/chooseUs/img2.png'
 import img3 from '../../assets/home/chooseUs/img3.png'
-import img4 from '../../assets/home/chooseUs/img4.png'
+// import img4 from '../../assets/home/chooseUs/img4.png'
 
 const ChooseUs = () => {
     return (
@@ -36,7 +36,7 @@ const ChooseUs = () => {
                         <p className='text-[#333333] text-[20px] leading-[28.9px]  '>Мы разрабатываем персонализированные решения, учитывая уникальные потребности каждого клиента</p>
                     </div>
                     <div className='border h-[320px] flex flex-col gap-5 justify-center items-center  '>
-                        <img className='h-full w-full' src={img4} alt="" />
+                        <img className='h-full w-full' src={img1} alt="" />
                     </div>
                     <div className='border h-[320px] flex flex-col gap-5 justify-center items-center p-[30px] '>
                         <p className='text-[#333333] text-[25px] font-[500] leading-[36px]  '>Комплексное обслуживание</p>
