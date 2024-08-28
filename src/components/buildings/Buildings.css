@@ -1,0 +1,20 @@
+.buildings .swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.buildings .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    padding-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.buildings .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
